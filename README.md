@@ -12,7 +12,7 @@ Go in `Ustealer/` folder and run makefile
 `make`
 
 ## Use
-`./Ustealer`
+`./ustealer`
 
 
 ![Logo](http://i.imgur.com/Vjhj5uE.png)
