@@ -1,5 +1,5 @@
 # Ustealer
-Ubuntu stealer, steal ubuntu information in local pc
+Ubuntu stealer, steal ubuntu information in local pc (nice with usb key)
 
 ## Require
 - G++  
